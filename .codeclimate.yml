@@ -1,6 +1,6 @@
 engines:
   bundler-audit:
-      enabled: false
+      enabled: true
   csslint:
     enabled: false
   eslint:
@@ -21,3 +21,5 @@ exclude_paths:
 - test/**/*		
 - app/**/*
 - config/**/*
+
+#testing changes
