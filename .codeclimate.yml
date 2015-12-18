@@ -21,5 +21,3 @@ exclude_paths:
 - test/**/*		
 - app/**/*
 - config/**/*
-
-#testingchanges
