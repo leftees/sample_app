@@ -1,25 +1,8 @@
-engines:
-  bundler-audit:
-      enabled: false
-  csslint:
-    enabled: false
-  eslint:
-    enabled: false
-  fixme:
-    enabled: false
-  phpcodesniffer:
-    enabled: false
-  phpmd:
-    enabled: false
-  rubocop:
-      enabled: false
-ratings:
-  paths:
-  - Gemfile.lock
+languages:
+   Ruby: true
 
 exclude_paths:		
 - test/**/*		
 - app/**/*
 - config/**/*
 
-#testing
