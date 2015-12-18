@@ -22,4 +22,3 @@ exclude_paths:
 - app/**/*
 - config/**/*
 
-#testing changes
