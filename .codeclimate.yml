@@ -1,5 +1,5 @@
 engines:
-  rubocop:
+ rubocop:
     enabled: true
 ratings:
   paths:
